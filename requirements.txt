@@ -1,1 +1,2 @@
 pytest
+sqlalchemy==1.4.47
